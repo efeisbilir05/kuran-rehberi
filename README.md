@@ -7,9 +7,10 @@ Bu proje; tematik ayet keşfi, ruh haline göre rehberlik ve favori listesi olu�
 4) Detaylı arama: Tüm meal içinde anahtar kelime sorgulama.
 5) Akıllı favoriler: Mükerrer kayıt engelli kişisel ayet listesi.
 
-
-Kurulum:
-1) Depoyu klonlayın.
+   Kurulum:
+1 Depoyu klonlayın.
 2) Gerekli kütüphaneleri kurun(requirements.txt)
 3) Uygulamayı çalıştırın.
   
+
+ 
