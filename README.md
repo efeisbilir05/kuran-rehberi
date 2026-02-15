@@ -9,8 +9,8 @@ Bu proje; tematik ayet keşfi, ruh haline göre rehberlik ve favori listesi olu�
 
    Kurulum:
 1 Depoyu klonlayın.
-2) Gerekli kütüphaneleri kurun(requirements.txt)
-3) Uygulamayı çalıştırın.
+2 Gerekli kütüphaneleri kurun(requirements.txt)
+3 Uygulamayı çalıştırın.
   
 
  
