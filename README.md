@@ -1,5 +1,5 @@
 Kur'an-ı Kerim Dijital rehberi 
-Bu proje; tematik ayet keşfi, ruh haline göre rehberlik ve favori listesi oluşturma gibi özelliklere sahip kapsamlı bir Kur'an-ı Kerim kütüphanesidir.
+Vibe coding ile yapılmış bu proje; tematik ayet keşfi, ruh haline göre rehberlik ve favori listesi oluşturma gibi özelliklere sahip kapsamlı bir Kur'an-ı Kerim kütüphanesidir.
 Özellikler: 
 1) Tematik Keşfet: İman, Ahlak, Sabır gibi konularda rastgele ayetler.
 2) Ruh haline göre rehber: O anki duygunuza göre (Hüzünlü, Yalnız vb.) teselli edici ayetler.
